@@ -1,0 +1,34 @@
+_repo: Women-of-Ninety-Eight_67720
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Concannon, Thomas, Mrs.
+    aliases:
+    - Walsh, Helena
+    - Concannon, Mrs. Thomas
+    - Concannon, Helena Walsh
+    birthdate: 1878
+    deathdate: 1952
+    gutenberg_agent_id: '52399'
+    url: http://www.gutenberg.org/2009/agents/52399
+    wikipedia: https://en.wikipedia.org/wiki/Helena_Concannon
+description: ''
+gutenberg_issued: '2022-03-26'
+identifiers:
+  gutenberg: '67720'
+language: en
+pgterms:marc904: https://archive.org/details/womenofninetyeig00concuoft
+pgterms:marc905: 20190402010058concannon
+pgterms:marc906: '1919'
+pgterms:marc907: IE
+production_note: MWS, Barry Abrahamsen, and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/Canadian Libraries)
+publication_note: Ireland :M. H. Gill & Son,1919.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Women of 'Ninety-Eight
+url: http://www.gutenberg.org/ebooks/67720
